@@ -1,0 +1,14 @@
+# Ignoring python files
+!**/__pycache__/
+!**/.vscode/
+*.pyc
+
+# Jupyter-notebooks
+!**/.ipynb_checkpoints
+
+# Self driving car run folder
+Self-Driving-Car/run1
+
+# Ignore data folders for deep learning datasets
+ML/Deep_learning/pytorch_tutorials/cifar10/data/
+ML/Deep_learning/pytorch_tutorials/MNIST digits/data/
